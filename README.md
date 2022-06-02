@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Web developer, focused on Front-End.
+
+React/Javascript/CSS/HTML
 <!--
 **mmolinarijr/mmolinarijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
