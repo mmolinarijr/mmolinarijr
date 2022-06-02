@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Web developer, focused on Front-End.
+💬 React/Javascript/CSS/HTML/NodeJS/Typescript
 
-React/Javascript/CSS/HTML
+🔭 You can find me on: https://mauriciomolinari.com/
 <!--
 **mmolinarijr/mmolinarijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
