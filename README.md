@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 React/Javascript/CSS/HTML/NodeJS/Typescript
+🔭 Learning: React/Javascript/CSS/HTML/NodeJS/Typescript
 
-📫 You can find me on: mauriciomolinari.com
+📫 You can find me at: mauriciomolinari.com
 
 
 
