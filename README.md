@@ -2,7 +2,7 @@
 
 🔭 Learning: React/Javascript/CSS/HTML/NodeJS/Typescript
 
-📫 You can find me at: mauriciomolinari.com
+📫 You can find me at: mauriciomolinari dot com
 
 
 
