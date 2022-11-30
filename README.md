@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-🔭 Learning: React/Javascript/CSS/HTML/NodeJS/Typescript
+🔭 Learning: HTML | CSS | Javascript | NodeJs | React | Typescript
 
 📫 You can find me at: mauriciomolinari dot com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmolinarijr&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmolinarijr&langs_count=10&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
