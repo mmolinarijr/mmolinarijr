@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmolinarijr&langs_count=10&theme=city_lights&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-    <summary> 🔭 Contact Me</summary> <br />
+ <summary> 🔭 <b>Contact Me</b></summary> <br />
          📫 You can find me at: mauriciomolinari.com
 </details>
 
