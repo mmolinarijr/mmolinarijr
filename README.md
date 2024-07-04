@@ -13,7 +13,7 @@
 
 <details>
  <summary> 🔭 <b>Contact Me</b></summary> <br />
-         📫 You can find me at: mauriciomolinari.com
+         📫 e mail me: contact at mauriciomolinari dot com
 </details>
 
 <!--
